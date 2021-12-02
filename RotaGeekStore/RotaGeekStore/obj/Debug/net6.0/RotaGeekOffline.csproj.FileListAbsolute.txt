@@ -1,0 +1,15 @@
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\obj\Debug\net6.0\RotaGeekOffline.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\obj\Debug\net6.0\RotaGeekOffline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\obj\Debug\net6.0\RotaGeekOffline.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\obj\Debug\net6.0\RotaGeekOffline.AssemblyInfo.cs
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\obj\Debug\net6.0\RotaGeekOffline.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\bin\Debug\net6.0\RotaGeekOffline.exe
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\bin\Debug\net6.0\RotaGeekOffline.deps.json
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\bin\Debug\net6.0\RotaGeekOffline.runtimeconfig.json
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\bin\Debug\net6.0\RotaGeekOffline.dll
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\bin\Debug\net6.0\ref\RotaGeekOffline.dll
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\bin\Debug\net6.0\RotaGeekOffline.pdb
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\obj\Debug\net6.0\RotaGeekOffline.dll
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\obj\Debug\net6.0\ref\RotaGeekOffline.dll
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\obj\Debug\net6.0\RotaGeekOffline.pdb
+C:\Users\Ali\source\repos\RotaGeekOffline\RotaGeekOffline\obj\Debug\net6.0\RotaGeekOffline.genruntimeconfig.cache
